@@ -74,13 +74,13 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card (Total Contributions, Commits, PRs, Stars, etc.) -->
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
 
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Top Languages Card (Most Used Languages) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages"/>
 
 </div>
 
@@ -92,7 +92,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tusharwankhede369&theme=tokyonight&hide_border=true" width="620" alt="GitHub Streak"/>
 
 </div>
-
 ### 🚀 Featured Projects
 
 <table>
