@@ -72,22 +72,27 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00e5cc&icon_color=00897b&text_color=e0f7fa&border_radius=12" height="175" alt="GitHub Stats"/>
-  
-  &nbsp;
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00e5cc&text_color=e0f7fa&border_radius=12" height="175" alt="Top Languages"/>
-</p>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
 
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Top Languages Card (Most Used Languages) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
   <!-- Streak Card (Total Contributions + Current Streak + Longest Streak) -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tusharwankhede369&theme=merko&hide_border=true&background=0d1117&ring=00e5cc&fire=00897b&currStreakLabel=00e5cc&border_radius=12" height="175" alt="GitHub Streak"/>
-</p>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tusharwankhede369&theme=tokyonight&hide_border=true" width="620" alt="GitHub Streak"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
 ---
 ### 🚀 Featured Projects
 
