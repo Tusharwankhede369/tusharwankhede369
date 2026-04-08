@@ -74,25 +74,33 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=ffffff&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=ffffff" height="165"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=ffffff&rank_icon=github" height="165" alt="GitHub Stats"/>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=ffffff" height="165" alt="Top Languages"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Tusharwankhede369&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F46E5&ring=06B6D4&fire=FF6F00&currStreakLabel=4F46E5" width="600"/>
+  <!-- Streak Stats Card (Total Contributions + Current Streak + Longest Streak) -->
+  <img src="https://streak-stats.demolab.com/?user=Tusharwankhede369&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F46E5&ring=06B6D4&fire=FF6F00&currStreakLabel=4F46E5" width="600" alt="GitHub Streak"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tusharwankhede369&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Tusharwankhede369&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%" alt="GitHub Trophies"/>
 
 </div>
-
----
 
 ### 🚀 Featured Projects
 
