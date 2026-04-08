@@ -1,95 +1,21 @@
-# 👋 Hi, I'm Tushar Wankhede  
-
-💻 Full Stack Developer (MERN) | 🚀 Passionate about building scalable web applications  
-
----
-
-## 🚀 About Me  
-- 🎓 B.Tech Computer Engineering (Final Year)  
-- 💼 Software Developer Intern  
-- 🌱 Currently learning Backend, System Design & AI (RAG, OCR)  
-- ⚡ Interested in building real-world scalable applications  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-JavaScript | Python | C | C++  
-
-### 🎨 Frontend  
-React.js | Redux Toolkit | Tailwind CSS | Bootstrap | HTML | CSS  
-
-### ⚙️ Backend  
-Node.js | Express.js | FastAPI  
-
-### 🗄️ Database  
-MongoDB | PostgreSQL  
-
-### 🧰 Tools  
-Git | GitHub | Postman | VS Code  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusharwankhede369&show_icons=true)
-
----
-
-## 📈 Top Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact)
-
----
-
-## 🔥 Streak Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tusharwankhede369)
-
----
-
-## 🚀 Featured Projects  
-
-### 🛒 Glow Care – E-commerce Platform  
-- Full-stack MERN application  
-- Authentication & Role-based access  
-- Product management & cart system  
-- 🔗 Live: https://glow-care-5.onrender.com/  
-
-### 🏥 Hospital Management System  
-- Secure login system with authentication  
-- Role-based access & dashboard  
-- Backend + frontend integration  
-- 🔗 Live: https://hms-frontend-i2q8.onrender.com/login  
-
----
-
-## 🌱 Current Focus  
-- Improving backend development  
-- Learning system design  
-- Exploring AI (RAG, OCR)  
-
----
-
-## 🏆 Achievements  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Tusharwankhede369)
-
----
-
-## 👀 Profile Views  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Tusharwankhede369)
-
----
-
-## 📫 Connect with Me  
-
-- 💼 LinkedIn: https://www.linkedin.com/in/tusharw-dev  
-- 💻 GitHub: https://github.com/Tusharwankhede369  
-- 📧 Email: tusharwankhede369@gmail.com  
-
----
-
-⭐ *Thanks for visiting my profile!*  
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Tusharwankhede369
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
