@@ -74,13 +74,13 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Tushar's GitHub Stats"/>
+  <!-- Stats Card - Using a more stable mirror -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
 
   &nbsp;&nbsp;&nbsp;
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
@@ -88,8 +88,8 @@
 
 <div align="center">
 
-  <!-- Streak Stats Card (More Stable Mirror) -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tusharwankhede369&theme=tokyonight&hide_border=true" width="600" alt="GitHub Streak Stats"/>
+  <!-- Streak Card - More stable version -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tusharwankhede369&theme=tokyonight&hide_border=true" width="620" alt="GitHub Streak"/>
 
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Tusharwankhede369&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%" alt="GitHub Trophies"/>
 
 </div>
