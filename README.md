@@ -1,33 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Tushar%20Wankhede&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML&descAlignY=58&descColor=e0e7ff&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Tushar+%F0%9F%91%8B;Full-Stack+MERN+Developer;AI+%2F+ML+Enthusiast;Building+real-world+products+%F0%9F%9A%80;Open+to+opportunities!)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-### 🙋‍♂️ About Me
-
-- 🎓 **B.Tech Computer Engineering** — Suryodaya College, Nagpur *(2021–2025)*
-- 💼 **Ex-Software Developer Intern** @ **Amplemind** *(Sep 2025 – Feb 2026)*
-- 🏗️ **Currently building:** Hospital Management System with AI chatbot + OCR
-- 🏆 **Best Final Year Project 2025** — selected among 50+ projects
-- 🎯 **Top 10 @ Central India Hackathon 2025** — out of 300+ teams
-- 🌱 **Currently exploring:** System Design, Microservices, Cloud Architecture
-- 📬 **Reach me at:** [tusharwankhede369@gmail.com](mailto:tusharwankhede369@gmail.com)
-- ⚡ **Fun fact:** I turn coffee into full-stack apps ☕
-
----
-
-### 🛠️ Tech Stack
+## 🛠️ Full Tech Stack
 
 **Languages**
 
@@ -55,10 +28,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / ML & Tools**
+**AI / ML**
 
-![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **DevOps & Tools**
 
@@ -70,7 +45,101 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Management System
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369/Hospital-Management-System)
+![Status](https://img.shields.io/badge/Status-Active_Dev-brightgreen?style=flat-square)
+![Award](https://img.shields.io/badge/🏆_Best_FYP_2025-gold?style=flat-square)
+
+AI-powered HMS replacing manual hospital workflows end-to-end — from appointments to lab reports.
+
+**AI/ML Features:**
+- 🤖 **RAG Chatbot** (FAISS + LLM) — 24/7 patient query resolution using hospital knowledge base
+- 🔬 **OCR Lab Analyzer** (Tesseract + Python) — Extracts & auto-classifies values as Normal / High / Low
+- 🧠 **FastAPI Microservice** — Decoupled AI layer serving Node.js backend
+
+**Full-Stack Features:**
+- 🔐 JWT Auth + RBAC for sensitive healthcare data
+- 🏥 Appointments, Bed Allocation, Pharmacy, Billing, Payroll, Lab modules
+- ⚙️ Multi-service: Node.js + FastAPI + MongoDB Atlas
+
+**Stack:** `MERN` `FastAPI` `Python` `RAG` `FAISS` `Tesseract OCR` `LLM` `MongoDB Atlas`
+
+</td>
+<td width="50%" valign="top">
+
+### 💄 Glow Care — E-commerce Platform
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369/Glow-care)
+![Status](https://img.shields.io/badge/Status-Production_Ready-blue?style=flat-square)
+
+Production-ready beauty & skincare e-commerce platform with complete shopping experience.
+
+**Key Features:**
+- 🛒 Cart, Checkout & Real-time Order Tracking
+- 📊 Admin Dashboard — inventory, orders, customer insights
+- 🔐 JWT Auth — secure sessions & protected routes
+- 🗂️ Optimized MongoDB schemas with search & category filtering
+- 📱 Fully responsive UI with React + Redux state management
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Redux` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 SEO Analytics Tool
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369/CenralIndia_Frontend)
+![Award](https://img.shields.io/badge/🎯_Top_10_/_300+_Teams-orange?style=flat-square)
+
+Built at Central India Hackathon 2025. SEO analytics with keyword tracking & performance dashboards.
+
+**Stack:** `React.js` `JavaScript` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Blinkeyit
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369/Blinkeyit)
+
+Fast, modern full-stack web application built with the MERN stack.
+
+**Stack:** `React.js` `Node.js` `MongoDB` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+| | |
+|---|---|
+| 🥇 | **Best Final Year Project Award 2025** — AI-Powered Full Body Posture Detection using Computer Vision, selected among **50+ projects** at Suryodaya College |
+| 🎯 | **Top 10 @ Central India Hackathon 2025** — SEO analytics tool, ranked in **top 10 among 300+ competing teams** |
+| 🥉 | **3rd Prize — Paper Presentation 2025** — Technical research at Suryodaya College of Engineering |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| ☁️ NPTEL Cloud Computing | Ministry of Education, Govt. of India | Apr 2025 |
+| 🤖 NPTEL Reinforcement Learning | Ministry of Education, Govt. of India | Apr 2025 |
+| ☁️ AWS APAC Solutions Architecture | Forage | Dec 2024 |
+| 🌐 Web Development Masterclass | Udemy | Sep 2025 |
+| 🎨 Bootstrap for Beginners | Udemy | Jul 2025 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -94,92 +163,7 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 Hospital Management System
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369/Hospital-Management-System)
-
-AI-powered HMS with modules for appointments, bed allocation, pharmacy, billing, payroll & lab management. Built to replace manual hospital workflows end-to-end.
-
-**Key Features:**
-- 🤖 AI Chatbot (RAG + FAISS) — 24/7 patient query handling
-- 🔬 OCR Lab Report Analyzer (Tesseract) — auto-classifies values as Normal/High/Low
-- 🔐 JWT Auth + RBAC for sensitive healthcare data
-- ⚙️ Multi-service architecture: Node.js + FastAPI + MongoDB Atlas
-
-**Stack:** `MERN` `FastAPI` `RAG` `FAISS` `Tesseract OCR` `MongoDB Atlas`
-
-</td>
-<td width="50%" valign="top">
-
-#### 💄 Glow Care — E-commerce Platform
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369/Glow-care)
-
-Production-ready beauty & skincare e-commerce platform with a complete shopping experience from product discovery to order tracking.
-
-**Key Features:**
-- 🛒 Cart, Checkout & Real-time Order Tracking
-- 📊 Admin Dashboard — inventory, orders, customer insights
-- 🔐 JWT Auth — secure sessions & protected routes
-- 🗂️ Optimized MongoDB schemas with search & category filtering
-
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Redux` `JWT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📊 Central India Hackathon — SEO Analytics Tool
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369/CenralIndia_Frontend)
-
-Built at Central India Hackathon 2025 — SEO analytics tool with keyword tracking and a performance dashboard that secured **Top 10 among 300+ teams**.
-
-**Stack:** `React.js` `JavaScript` `REST APIs`
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ Blinkeyit
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369/Blinkeyit)
-
-A fast, modern full-stack web application built with the MERN stack.
-
-**Stack:** `React.js` `Node.js` `MongoDB` `JavaScript`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 Achievements
-
-| | |
-|---|---|
-| 🥇 | **Best Final Year Project Award 2025** — Full Body Posture Detection using Computer Vision, selected among **50+ projects** at Suryodaya College |
-| 🎯 | **Top 10 @ Central India Hackathon 2025** — Built an SEO analytics tool, ranked among **300+ competing teams** |
-| 🥉 | **3rd Prize — Paper Presentation 2025** — Technical research project at Suryodaya College of Engineering |
-
----
-
-### 📜 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| ☁️ NPTEL Cloud Computing | Ministry of Education, Govt. of India | Apr 2025 |
-| 🤖 NPTEL Reinforcement Learning | Ministry of Education, Govt. of India | Apr 2025 |
-| ☁️ AWS APAC Solutions Architecture | Forage | Dec 2024 |
-| 🌐 Web Development Masterclass | Udemy | Sep 2025 |
-| 🎨 Bootstrap for Beginners | Udemy | Jul 2025 |
-
----
-
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -189,7 +173,7 @@ A fast, modern full-stack web application built with the MERN stack.
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -203,24 +187,10 @@ A fast, modern full-stack web application built with the MERN stack.
 
 ---
 
-### 🤝 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharw-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharwankhede369@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharwankhede369)
+**⭐ If you find my work useful, consider starring my repositories! It means a lot 🙏**
 
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Tusharwankhede369&label=Profile+Views&color=4F46E5&style=for-the-badge)
-
-**⭐ If you like my work, consider starring my repositories! It means a lot 🙏**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
 
 </div>
