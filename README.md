@@ -191,13 +191,14 @@ A fast, modern full-stack web application built with the MERN stack.
 
 ### 🐍 Contribution Snake
 
-### 🐍 Contribution Snake
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tusharwankhede369/Tusharwankhede369/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tusharwankhede369/Tusharwankhede369/output/github-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Tusharwankhede369/Tusharwankhede369/output/github-snake.svg"/>
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tusharwankhede369/Tusharwankhede369/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tusharwankhede369/Tusharwankhede369/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tusharwankhede369/Tusharwankhede369/output/github-snake.svg"/>
+</picture>
+
 </div>
 
 ---
@@ -213,7 +214,7 @@ A fast, modern full-stack web application built with the MERN stack.
 </div>
 
 ---
-
+	
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tusharwankhede369&label=Profile+Views&color=4F46E5&style=for-the-badge)
