@@ -92,6 +92,8 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tusharwankhede369&theme=tokyonight&hide_border=true" width="620" alt="GitHub Streak"/>
 
 </div>
+
+---
 ### 🚀 Featured Projects
 
 <table>
