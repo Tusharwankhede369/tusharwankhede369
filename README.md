@@ -33,19 +33,19 @@ Git | GitHub | Postman | VS Code
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusharwankhede369&show_icons=true)
 
 ---
 
 ## 📈 Top Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact)
 
 ---
 
 ## 🔥 Streak Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tusharwankhede369&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tusharwankhede369)
 
 ---
 
@@ -74,19 +74,13 @@ Git | GitHub | Postman | VS Code
 
 ## 🏆 Achievements  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Tusharwankhede369&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/Tusharwankhede369/Tusharwankhede369/blob/output/github-contribution-grid-snake.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=Tusharwankhede369)
 
 ---
 
 ## 👀 Profile Views  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Tusharwankhede369&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Tusharwankhede369)
 
 ---
 
