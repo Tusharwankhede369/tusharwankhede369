@@ -75,29 +75,29 @@
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=ffffff&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusharwankhede369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Tushar's GitHub Stats"/>
 
   &nbsp;&nbsp;&nbsp;
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=ffffff" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-  <!-- Streak Stats Card (Total Contributions + Current Streak + Longest Streak) -->
-  <img src="https://streak-stats.demolab.com/?user=Tusharwankhede369&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F46E5&ring=06B6D4&fire=FF6F00&currStreakLabel=4F46E5" width="600" alt="GitHub Streak"/>
+  <!-- Streak Stats Card (More Stable Mirror) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tusharwankhede369&theme=tokyonight&hide_border=true" width="600" alt="GitHub Streak Stats"/>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-  <!-- GitHub Profile Trophies -->
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Tusharwankhede369&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%" alt="GitHub Trophies"/>
 
 </div>
