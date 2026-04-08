@@ -79,7 +79,7 @@
 
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Top Languages Card -->
+  <!-- Top Languages Card (Most Used Languages) -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tusharwankhede369&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages"/>
 
 </div>
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-  <!-- Streak Card (Current Streak + Longest Streak + Total Contributions) -->
+  <!-- Streak Card (Total Contributions + Current Streak + Longest Streak) -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tusharwankhede369&theme=tokyonight&hide_border=true" width="620" alt="GitHub Streak"/>
 
 </div>
